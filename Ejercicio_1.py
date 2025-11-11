@@ -1,0 +1,6 @@
+print("***Biemnvenidos como funciona una aplicacion de control****")
+print("***A continuacion podra comprobar el resultado de diversas opraciones mat****")
+print(6 // 3)
+print(6 //3.)
+print(6. //3)
+print(6. // 3.)
